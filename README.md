@@ -9,7 +9,7 @@
 I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for numerical computing, music, and the Japanese language.
 
 
-## 🌻 Life Journey
+## Life Journey
 
 While traversing my personal and professiona my journey, I'm also managing a rare chronic illness. This has been a significant challenge, and it does sometimes impact my life and work. But it's also taught me resilience, perseverance, and the importance of maintaining a positive outlook. I'm committed to fight it, learn from it, and continue to grow both personally and professionally. 
 
