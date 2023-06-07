@@ -29,7 +29,7 @@ Noteable Links:
 
 ## 🎨 Projects
 
--[simpleFemCpp]([Link](https://github.com/romanWSgit/simpleFemCpp)) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
+-[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
 
 :construction: This page is currently under construction! :construction:
 <!--
