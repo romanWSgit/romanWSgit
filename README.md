@@ -28,9 +28,9 @@ Noteable Links:
 - ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ## 🎨 Projects
-
--[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
-
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) :
+  -[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
+- ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white) :
 :construction: This page is currently under construction! :construction:
 <!--
 - 
