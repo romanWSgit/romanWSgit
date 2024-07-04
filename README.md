@@ -25,6 +25,8 @@ I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for nu
 
 - MATLAB®
   
+  - [nonlinear FEM Matlab (2D)](https://github.com/romanWSgit/NL_FEM_repo.git))
+  
 
 - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
