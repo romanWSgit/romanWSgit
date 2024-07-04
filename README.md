@@ -9,16 +9,6 @@
 I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for numerical computing, music, and the Japanese language.
 
 
-## Life Journey
-
-While traversing my personal and professiona my journey, I'm also managing a rare chronic illness. This has been a significant challenge, and it does sometimes impact my life and work. But it's also taught me resilience, perseverance, and the importance of maintaining a positive outlook. I'm committed to fight it, learn from it, and continue to grow both personally and professionally. 
-
-If I'm ever slow to respond, know that I'm likely managing my health and will get back to you as soon as possible. Thank you for your understanding.
-
-Noteable Links:
-
-- [EURORDIS](https://www.eurordis.org)
-
 ## 🛠 Skills
 
 - ![Wolfram Language](https://img.shields.io/badge/Wolfram%20Language-DD1100.svg?style=for-the-badge&logo=Wolfram-Language&logoColor=white) , ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100.svg?style=for-the-badge&logo=Wolfram-Mathematica&logoColor=white) 
@@ -33,6 +23,14 @@ Noteable Links:
   -[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
 - ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white)
 
+## Life Journey
+
+While traversing my personal and professional journey, I'm also managing a rare chronic illness. This has been a significant challenge, and it does sometimes impact my life and work. But it's also taught me resilience, perseverance, and the importance of maintaining a positive outlook. I'm committed to fight it, learn from it, and continue to grow both personally and professionally. 
+
+
+Noteable Links:
+
+- [EURORDIS](https://www.eurordis.org)
 
 :construction: This page is currently under construction! :construction:
 <!--
