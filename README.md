@@ -23,10 +23,11 @@ I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for nu
   -[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
 - ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white)
 
+
+- [![Swift](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
 ## Life Journey
-
-While traversing my personal and professional journey, I'm also managing a rare chronic illness. This has been a significant challenge, and it does sometimes impact my life and work. But it's also taught me resilience, perseverance, and the importance of maintaining a positive outlook. I'm committed to fight it, learn from it, and continue to grow both personally and professionally. 
-
+While traversing my personal and professional journey, I'm also managing a rare chronic illness, but it's also taught me resilience, perseverance, and the importance of maintaining a positive outlook. 
 
 Noteable Links:
 
