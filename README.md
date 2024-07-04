@@ -23,6 +23,8 @@ I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for nu
   -[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
 - ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white)
 
+- MATLAB®
+  
 
 - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
