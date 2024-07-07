@@ -2,12 +2,14 @@
 
 # 👋 Hello, I'm Roman!
 
-:construction: This page is currently under construction! :construction:
 
 ## 👨🏻‍💻🎸🇯🇵 About Me 
 
 I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for numerical computing, music, and the Japanese language.
 
+- 🌱 I’m currently learning (or better, always) C++, modern Fortran, and recently a little bit of Rust
+- 👯 I’m looking to collaborate on numerical computing projects (especially methods to solve partial differential equations) and also musical projects involving electric guitar.
+- 🤔 I’m looking for help with methods that assist in computing and optimizing a block diagonal (ordered) real Schur decomposition.
 
 ## 🛠 Skills
 
@@ -22,7 +24,7 @@ I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for nu
 
   -[simpleFemCpp](https://github.com/romanWSgit/simpleFemCpp) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
 
-  -[CppFortranInterop](https://github.com/romanWSgit/CppFortranInterop) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
+  -[CppFortranInterop](https://github.com/romanWSgit/CppFortranInterop) - This project aims to call Fortran functions and subroutines from C++ and compares them with the functionality available in the C++ ecosystem.
 
 - MATLAB®
   
@@ -30,11 +32,11 @@ I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for nu
 
 - ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?style=for-the-badge&logo=Fortran&logoColor=white)
 
-  -[CppFortranInterop](https://github.com/romanWSgit/CppFortranInterop) - Rudimentary implementation of a Finite Element Method (FEM) solver written in C++ (based on: [Full Finite Element Solver in 100 Lines of Python](https://polymerfem.com/full-finite-element-solver-in-100-lines-of-python/) by Dr. Jorgen Bergstrom )
+  -[CppFortranInterop](https://github.com/romanWSgit/CppFortranInterop) - This project aims to call Fortran functions and subroutines from C++ and compares them with the functionality available in the C++ ecosystem.
 
 - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-## Hobbies and Interests
+## ⚡ Hobbies and Interests
 
 - Instruments: 	trumpet and guitar
 
