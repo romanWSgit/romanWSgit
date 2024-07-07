@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻🎸🇯🇵 About Me 
 
-I'm a mechanical/mechatronical engineer based in Vienna. I have a passion for numerical computing, music, and the Japanese language.
+I'm a mechanical/mechatronics engineer based in Vienna. I have a passion for numerical computing, music, and the Japanese language.
 
 - 🌱 I’m currently learning (or better, always) C++, modern Fortran, and recently a little bit of Rust
 - 👯 I’m looking to collaborate on numerical computing projects (especially methods to solve partial differential equations) and also musical projects involving electric guitar.
